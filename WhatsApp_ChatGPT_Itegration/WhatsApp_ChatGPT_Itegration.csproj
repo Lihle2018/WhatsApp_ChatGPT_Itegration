@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>f56414d5-59e9-482e-90fa-296a44d153bf</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenAi" Version="1.7.2" />
+    <PackageReference Include="Twilio" Version="6.6.0" />
+    <PackageReference Include="Twilio.AspNet.Common" Version="8.0.1" />
+    <PackageReference Include="Twilio.AspNet.Core" Version="8.0.1" />
+  </ItemGroup>
+
+</Project>
