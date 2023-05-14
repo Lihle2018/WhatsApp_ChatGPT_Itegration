@@ -46,7 +46,7 @@ Contributions to this project are welcome! If you encounter any issues or have s
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
 
 ## Acknowledgments
 
@@ -54,4 +54,4 @@ We would like to acknowledge the contributions of the open-source community and 
 
 ## Contact
 
-If you have any questions or need further assistance, please contact [your contact information].
+If you have any questions or need further assistance, please contact me.
