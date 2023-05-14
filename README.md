@@ -34,10 +34,6 @@ To set up and run the ASP Core 6 application with WhatsApp Twilio API and Chat G
 
 7. **Test the Integration**: Access the application through the provided endpoint and start testing the WhatsApp Twilio API and Chat GPT integration.
 
-## Documentation
-
-For detailed information on how to use and customize the ASP Core 6 application, please refer to the documentation included in this repository.
-
 ## Contributions
 
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
