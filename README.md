@@ -14,9 +14,7 @@ The ASP Core 6 application is designed to leverage the power of WhatsApp Twilio 
 
 3. **Real-time Communication**: The integration enables real-time communication between users and the application, ensuring seamless and interactive chat experiences.
 
-4. **Message Management**: The application includes functionalities to manage incoming and outgoing messages, allowing you to track and process chat conversations efficiently.
 
-5. **Customization Options**: You can customize the application's behavior, such as response generation and message routing, to align with your specific requirements.
 
 ## Setup Instructions
 
